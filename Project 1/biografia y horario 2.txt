@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+<tittle> </tittle>
+<style> 
+	
+	table,th,td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+	th,td{
+		padding:10px;
+
+}
+
+</style>
+</head>
+<body>
+<h1> Mi Biografia y Horario de Clases</h1>
+<p> Jose Duran </p>
+<img src="imagenes/foto.jpeg.jpeg" style="width:180px" alt="foto de Jose Duran">
+
+    <p> Jose Duran nacio el 31 de mayo del año 1998 en Santo Domingo,
+	Republica Dominicana. 
+   </p>
+
+    <p>	Sus Padres son Ramon Duran y Maria Polanco, Es el menor de mis 6 hermanos,
+        comenzo sus estudios a la edad de 3 Años en el colegio santa clara luego se traslado
+        al colegio Editeco donde realizo sus estudios de secundarios donde realizo un tecnico en
+        informatica.
+   </p>
+	
+   <p>
+	Luego de culminar sus estudio de la secundaria en (EDITECO). Inicio la carrera licenciatura en
+    informatica en la univercidad Autonoma de Santo domingo (UASD) donde lleva al rededor de 5 años de estudios
+    a realizado varios cursos como el paquete de oficia, ciber seguridad y Analisis Forence en Windows e iniciado un 
+	tecnico profesional de desarrollo y creacion de software.
+   </p>
+
+
+<hr>
+
+<h2> Horario de clases </h2>
+<table style="width:70%;">
+<tr>
+	<th>Hora</th>
+	<th>Lunes</th>
+	<th>Martes</th>
+	<th>Miercoles</th>
+	<th>Jueves</th>
+	<th>Viernes</th>
+</tr>
+
+<tr>
+	<th>7am</th>
+	<th></th>
+	<th></th>
+	<th>INF 5170-01
+	    19386 Class
+	    7:00 AM- 8:50AM
+	    LIF 109</th>
+	<th></th>
+	<th></th>
+	
+	</tr>
+
+	<th>8am</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+    <th></th>
+
+</tr>
+<tr>
+	<th>9am</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+
+
+</tr>
+<tr>
+	<th>10am</th>
+
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+</tr>
+<tr>
+	<th>11am</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+
+</tr>
+<tr>
+	<th>12pm</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+
+</tr>
+<tr>
+	<th>1pm</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+
+</tr>
+
+<tr>
+	<th>2pm</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+
+</tr>
+<tr>
+	<th>3pm</th>
+	<th><p>INF 4200-08
+	    42495 Class
+	    3:00PM-5:50PM
+            B4 205<p></th>
+
+	<th><p>INF 4200-08
+	    42495 Class
+	    3:00PM-5:50PM
+            B4 205<p></th>
+	<th></th>
+	<th></th>
+	<th></th>
+
+	
+</tr>
+
+
+<tr>
+	<th>4pm</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	
+</tr>
+
+<tr>
+	<th>5pm</th>
+	<th></th>
+	<th></th>
+	<th></th>	
+	<th></th>
+	<th></th>
+</tr>
+
+<tr>
+	<th>6pm</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	
+</tr>
+
+<tr>
+	<th>7pm</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	
+</tr>
+
+<tr>
+	<th>8pm</th>
+	<th></th>
+	<th>INF 5160-03
+	    23892 Class
+	    8:00 PM-9:50 PM
+	    AB 203</th>
+
+	<th></th>
+	<th>INF 5160-03
+	    23892 Class
+	    8:00 PM-9:50 PM
+	    AB 104
+	</th>
+
+	
+
+</tr>
+
+<tr>
+	<th>9pm</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	
+</tr>
+
+<tr>
+	<th>10pm</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	
+</tr>
+
+
+
+<table>
+
+</body>
+</html>
