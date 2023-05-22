@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Código QR con Javascript</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet" />
+		<link rel="stylesheet" href="estilos.css" />
+		<script defer src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+		<script defer src="app.js"></script>
+	</head>
+	<body>
+
+		<h1 class="centrar">formulario de contactos</h1>
+		<div class="contenedor">
+			<form action="" id="formulario" class="formulario">
+				<label for="Nombre y Apellido">Nombre y Apellido:</label>
+				<input type="text" id="link" placeholder="Nombre y Apellido"  />
+
+                <label for="Email">Email:</label>
+				<input type="text" id="link" placeholder="Correo Electronico"  />
+
+                <label for="Telefono">Telefono:</label>
+				<input type="text" id="link" placeholder="Numero Telefonico"  />
+                
+				<button class="btn">Generar QR</button>
+			</form>
+
+		<div id="contenedorQR" class="contenedorQR"></div>
+		
+	</body>
+</html>

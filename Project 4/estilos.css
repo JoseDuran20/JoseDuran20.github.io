@@ -1,0 +1,65 @@
+*, html {
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    background: url(fondo.jpg) no-repeat;
+   
+    background-size: cover;
+    background-position: center center;
+    height: calc(100vh - 80px);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;    
+    height: 100vh;
+    font-size: 18px;
+}
+
+   
+
+
+.container{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.field{
+    margin-right: 10px;
+}
+
+.field{
+    font-weight: bolder;
+}
+
+input[type="text"]{
+    border: none;
+    border-bottom: 1px solid #434242;
+    transition: .3 ease all;
+    outline: none;
+    padding: 15px;
+}
+
+
+input[type="text"]:focus{
+    border-bottom: 2px solid #235e7e;
+}
+
+
+button{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    background-color: #235e7e;
+    color: white;
+    font-size: 18px;
+}
+
