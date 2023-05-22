@@ -1,0 +1,48 @@
+        
+div {
+    text-align: center;
+    color: #000;
+    font-style: italic;
+}
+
+img{
+    max-width: 50%;
+    justify-content: space-between;
+    border-radius: 2rem;
+    
+    
+}
+
+h3{
+    text-align: initial;
+}
+
+table {
+    width: 100%;
+    border: 1px solid #000;
+    color: black;
+}
+
+
+th, td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    padding: 0.3em;
+    font-style : italic;
+
+    
+
+}
+    
+
+caption {
+    caption-side: bottom;
+    padding: 0.3em;
+    color: #fff;
+    background: #000;
+}
+th {
+    background: #eee;
+    
+}
